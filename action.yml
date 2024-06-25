@@ -1,9 +1,9 @@
-name: GitHub-Profile-3D-Contrib
-description: Generate profile 3D Contributions
-author: yoshi389111
+name: GitHub-Profile-3D-Contrib-2
+description: Generate profile 3D Contributions With some bug fixes
+author: Thecode764
 
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'dist/index.js'
 
 branding:
