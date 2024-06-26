@@ -40,7 +40,7 @@
   "author": "yoshi389111",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^29.0.0",
     "@types/node": "^20.0.0",
     "@typescript-eslint/eslint-plugin": "^4.22.1",
     "@typescript-eslint/parser": "^4.22.1",
